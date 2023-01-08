@@ -1,14 +1,10 @@
 # UAS-Kriptografi-20E1
 Repositori ini dibuat untuk memenuhi tugas Ujian Akhir Semester mata kuliah Kriptograi
 
-
-// enkripsi sdedrhana
-// algoritma XOR sederhana
-
-#include <iostream>
-#include <string.h>
-#include <fstream>
-#include <stdlib.h>
+#include <iostream> <br>
+#include <string.h> <br>
+#include <fstream> <br>
+#include <stdlib.h> <br>
 
 using namespace std;
 
